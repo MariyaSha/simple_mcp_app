@@ -1,6 +1,6 @@
 # 🌐 AI GUI App with Full Web Access
 
-What if your own language model could browse the internet and answer real-time questions—just like ChatGPT, but locally, inside your own app, where you have full control?
+What if your own language model could search the web and answer real-time questions? Just like ChatGPT, but running locally on your system, inside your app, where you have full control? 
 
 In this project, we’ll build exactly that using:
 
