@@ -53,14 +53,14 @@ async def handle_prompt(tools, is_url, url, user_prompt):
         else:
             # choose the right tool for the URL kind
             if url.startswith("https://x.com/"):
-                scrape_md = tools[16]
+                scraper = tools[16]
             elif url.startswith("https://www.linkedin.com/in/"):
-                scrape_md = tools[6]
+                scraper = tools[6]
             else:
-                scrape_md = tools[1]
+                scraper = tools[1]
             
             # call tool on new URL
-            result = await scrape_md.ainvoke({
+            result = await scraper.ainvoke({
                 "url": url
             })
 
