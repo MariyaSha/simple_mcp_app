@@ -1,0 +1,5 @@
+streamlit
+langchain_ollama
+langchain_mcp_adapters
+langchain
+ollama
