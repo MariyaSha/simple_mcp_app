@@ -1,4 +1,4 @@
-# 🌐 Simple MCP Project – LLM with Full Web Access
+# 🌐 AI GUI App with Full Web Access
 
 What if your own language model could browse the internet and answer real-time questions—just like ChatGPT, but locally, inside your own app, where you have full control?
 
@@ -28,7 +28,7 @@ Before running the app, make sure you have the following:
 
 If you're not sure how to install the requirements, or what .bashrc is, or if you'd like to build this entire application step by step alongside me, please checkout my video tutorial on YouTube:
 
-<a href="https://youtu.be/CBVVMhvvbHM"><img src=""></a>
+<a href="https://youtu.be/CBVVMhvvbHM"><img src="https://github.com/user-attachments/assets/04bfeed3-c77d-4a11-98dc-dec1aa9449ee" width=600px></a>
 
 ### Watch the full tutorial to learn how to:
 
