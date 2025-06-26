@@ -1,4 +1,3 @@
-nodejs
 streamlit
 langchain_ollama
 langchain_mcp_adapters
