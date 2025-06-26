@@ -6,7 +6,7 @@ In this project, we’ll build exactly that using:
 
 - 🧠 **Ollama** – to run powerful language models like `gemma3` on your local machine.
 - 🔗 **LangChain** – to interface with LLMs from Python.
-- 🌐 **Bright Data MCP** – to fetch live web content using real-world scraping tools.
+- 🌐 **Bright Data MCP** – to fetch live web content using real-world scraping tools. [Bright Data MCP GitHub Repo](https://github.com/brightdata/brightdata-mcp)
 - 🎨 **Streamlit** – to wrap everything in a clean, interactive user interface.
 
 ---
@@ -63,7 +63,6 @@ npx @brightdata/mcp API_TOKEN=$BRD_API_KEY
 # Install Python dependencies
 pip install -r requirements.txt
 
-# Install MCP server via npm
 cd simple_mcp_app
 # OR cd advanced_mcp_app
 
