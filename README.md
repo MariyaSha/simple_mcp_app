@@ -19,6 +19,7 @@ Before running the app, make sure you have the following:
 - ✅ [Ollama](https://ollama.com) installed and a model (e.g., `gemma3`) pulled and serving.
 - ✅ An API key from [Bright Data](https://brdta.com/pythonsimplified_mcp), make sure that at least one **Web Unlocker** zone is configured. 
 - ✅ Add the following line of code to the end of your .bashrc file in WSL. Replace <your-key> with the Brigth Data API Key you copied.
+    <br>
     ```
     export BRD_API_KEY=<your-key>
     ```
@@ -53,6 +54,7 @@ Just for perspective. I've featured Bright Data tools in a few tutorials already
 git clone https://github.com/MariyaSha/simple_mcp_app.git
 cd simple_mcp_app
 
+# create working environment 
 conda create -n mcp_env python=3.12
 conda activate mcp_env
 
